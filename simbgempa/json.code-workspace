@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../rest-api/json"
+		},
+		{
+			"path": "../rest-api/wpu-hut"
+		},
+		{
+			"path": "../rest-api/wpu-movie"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
