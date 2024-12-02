@@ -46,7 +46,7 @@ $result = mysqli_query($conn, $query);
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <ul class="navbar-nav mb-2 mb-lg-0 fs-6 fw-bolder ms-auto">
                         <li class="nav-item mx-3">
-                            <a class="nav-link nav-aktif" href="index.php">Home</a>
+                            <a class="nav-link nav-aktif" href="index.html">Home</a>
                         </li>
                         <li class="nav-item mx-3">
                             <a class="nav-link" href="dataupdate.html">Data Terbaru</a>
