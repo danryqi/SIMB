@@ -52,7 +52,7 @@ $result = mysqli_query($conn, $query);
                             <a class="nav-link" href="dataupdate.html">Data Terbaru</a>
                         </li>
                         <li class="nav-item mx-3">
-                            <a class="nav-link" href="statistik.html">Statistik</a>
+                            <a class="nav-link" href="statistik.php">Statistik</a>
                         </li>
                         <li class="nav-item mx-3">
                             <a class="nav-link" href="definisi.html">Definisi</a>
